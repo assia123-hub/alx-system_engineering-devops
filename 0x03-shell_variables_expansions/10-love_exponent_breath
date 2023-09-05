@@ -1,0 +1,3 @@
+#!/bin/bash
+export BREATH=2
+export LOVE=3
